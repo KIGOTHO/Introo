@@ -1,5 +1,7 @@
 package com.creatives.mike.introo;
 
+import android.support.v7.app.ActionBarActivity;
+import android.os.Bundle;
 
 
 public class MainActivity extends ActionBarActivity {
